@@ -1,6 +1,12 @@
 ### Oi oi 👋
 ![Meus Status](https://github-readme-stats.vercel.app/api?username=Erick-F-Oliveira&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy)
 ![Meu card](https://github-readme-stats.vercel.app/api/pin/?username=Erick-F-Oliveira&repo=github-Erick-F-Oliveira&cache_seconds=86400&theme=buefy)
+<div>
+<a href="https://github.com/Erick-F-Oliveira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-F-Oliveira&layout=compact&langs_count=7&theme=buefy"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-F-Oliveira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</div>
+
 <!--
 **Erick-F-Oliveira/Erick-F-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
