@@ -4,11 +4,11 @@
 <a href="https://github.com/Erick-F-Oliveira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-F-Oliveira&layout=compact&langs_count=7&theme=buefy"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-F-Oliveira&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</div>
+
 ![Github Gist stars](https://img.shields.io/github/gist/stars/:gistId)
 ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/:Erick-F-Oliveira/:Erick-F-Oliveira)
 
-
+</div>
 
 
 <!--
