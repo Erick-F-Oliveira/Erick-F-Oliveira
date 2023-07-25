@@ -7,6 +7,8 @@
 
 ![Github Gist stars](https://img.shields.io/github/gist/stars/:gistId)
 ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/:Erick-F-Oliveira/:Erick-F-Oliveira)
+![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/:platform/:packageName)
+
 
 </div>
 
