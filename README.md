@@ -7,7 +7,8 @@
 
 ![Github Gist stars](https://img.shields.io/github/gist/stars/:gistId)
 ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/:Erick-F-Oliveira/:Erick-F-Oliveira)
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/:Erick-F-Oliveira/:disc3)
+![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/:Erick-F-Oliveira/:dic3/:main)
+
 
 
 
