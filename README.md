@@ -1,4 +1,5 @@
 ### Oi oi 👋
+Meu nome é Erick. Estou fazendo minha formção fullstack e tenho usado bastante: Html, CSS, Javascript  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 <div>
 <a href="https://github.com/Erick-F-Oliveira">
