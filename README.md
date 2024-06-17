@@ -16,8 +16,10 @@ Outras linguagens eu estou praticando tambem, mas js é minha queridinha
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-
+<div>
+<a href="https://github.com/Erick-F-Oliveira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-F-Oliveira&layout=compact&langs_count=7&theme=buefy"/>
+</div>
 
 
 <!--
