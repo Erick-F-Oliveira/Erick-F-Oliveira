@@ -17,13 +17,7 @@ Outras linguagens eu estou praticando tambem, mas js é minha queridinha
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-<div>
-<a href="https://github.com/Erick-F-Oliveira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-F-Oliveira&layout=compact&langs_count=7&theme=buefy"/>
 
-
-
-</div>
 
 
 <!--
