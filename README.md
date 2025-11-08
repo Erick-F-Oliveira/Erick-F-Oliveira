@@ -21,10 +21,7 @@ Outras linguagens eu estou praticando tambem, mas js é minha queridinha
 <a href="https://github.com/Erick-F-Oliveira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-F-Oliveira&layout=compact&langs_count=7&theme=buefy&include_all_commits=true"/>
 </div>
-<div>
-  <a href="https://github.com/Erick-F-Oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-F-Oliveira&theme=buefyk&show_icons=true&include_all_commits=true"/>
-</div>
+
 
 
 <!--
