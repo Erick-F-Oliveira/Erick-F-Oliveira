@@ -1,7 +1,8 @@
 ### Oi oi 👋
 Meu nome é Erick.
+
 Apredendo js basicamente fazendo bots.
-Outras linguagens eu estou praticando tambem, mas js é minha queridinha 
+Outras linguagens eu estou praticando tambem, mas JS é minha queridinha 
 
 
 
